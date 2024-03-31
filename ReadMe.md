@@ -8,8 +8,8 @@
 - **Navigation**: Accessed Azure Portal and navigated to "Create a resource" > "Key Vault".
 - **Configuration**: Specified a unique name, selected a subscription, resource group, and region.
 - **Review and Creation**: Reviewed the settings and created the Key Vault.
-![Create Key Vault](Screenshots/create-key-vault.png "Creating Azure Key Vault")
-![Key Vault Overview](Screenshots/key-vault-overview.png "Key Vault Overview")
+![Create Key Vault](Screenshots/Create-Key-Vault.png "Creating Azure Key Vault")
+![Key Vault Overview](Screenshots/Key-Vault-Overview.png "Key Vault Overview")
 
 ### Setting Access Policies
 
